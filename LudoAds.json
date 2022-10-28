@@ -3,17 +3,17 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "admob",
-		"InterstitialAd": "admob",
+        "BannerAd": "max",
+	"InterstitialAd": "max",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
 		
-		"MaxBanner" : "YOUR_AD_UNIT_ID",
-		"MaxInter" :  "YOUR_AD_UNIT_ID",
-		"MaxNative" : "YOUR_AD_UNIT_ID",
+		"MaxBanner" : "57bd790a6ccd0459",
+		"MaxInter" :  "59b50561e9f000f6",
+		"MaxNative" : "aef8e9c80de68f09",
 		
 		"ironsource_appKey": "1011dee21",
 		
