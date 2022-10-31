@@ -3,13 +3,13 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
+        "BannerAd": "admob",
 	"InterstitialAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "admob",
 		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-4489490271278035/6420463414",
+        "InterAdmob": "ca-app-pub-4489490271278035/7376599668",
+        "NativeAdmob": "ca-app-pub-4489490271278035/9268265837",
 		
 		"MaxBanner" : "57bd790a6ccd0459",
 		"MaxInter" :  "59b50561e9f000f6",
