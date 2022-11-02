@@ -1,33 +1,34 @@
 {
   "GuideData": {
     "AdsController": {
-	    
-      "NetworkAds": "facebook",
+	    		
+	"BannerAd": "max",
+	"InterstitialAd": "max",
+        "NativeAd": "max",
 		
-	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "BannerAdmob": "ca-app-pub-4489490271278035/3872976107",
+        "InterAdmob": "ca-app-pub-4489490271278035/3548762225",
+        "NativeAdmob": "ca-app-pub-4489490271278035/2582330763",
 		
-		"MaxBanner": "YOUR_AD_UNIT_ID",
-		"MaxInter": "YOUR_AD_UNIT_ID",
-		"MaxNative": "YOUR_AD_UNIT_ID",
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
 
        "BannerFacebook": "IMG_16_9_APP_INSTALL#833941450992142_833943240991963",
         "InterstitialFacebook": "VIMG_16_9_APP_INSTALL#833941450992142_833944087658545",
         "NativeFacebook": "",
         "NativeFacebookSingle": "",
 		
-		"ironsource_appKey": "168ad62ed",
+	"ironsource_appKey": "1011dee21",
 		
-		"unity_game_id": "4937988",
-		"unity_test": false,
-		"unity_banner": "banner_id",
-		"unity_interstitial": "Interstitial_Android",
-	      
-	     
-        "Cpa": false,
-        "ImageUrl" : "https://i.postimg.cc/WzChGNkF/oWEjQGy.gif",
-        "LinkCpa" : "https://netflix-free-accounts.netlify.app/"
+		"unity_game_id": "3883855",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+		
+        "Cpa": true,
+        "ImageUrl" : "https://i.postimg.cc/Bbx6m3xC/img.jpg",
+        "LinkCpa" : "https://freefire-ffdiamonds.netlify.app/
 
       },
 
