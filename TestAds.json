@@ -14,10 +14,9 @@
 		"MaxInter" :  "YOUR_AD_UNIT_ID",
 		"MaxNative" : "YOUR_AD_UNIT_ID",
 
-       "BannerFacebook": "IMG_16_9_APP_INSTALL#833941450992142_833943240991963",
-        "InterstitialFacebook": "VIMG_16_9_APP_INSTALL#833941450992142_833944087658545",
-        "NativeFacebook": "",
-        "NativeFacebookSingle": "",
+        "FanBanner": "IMG_16_9_APP_INSTALL#833941450992142_833943240991963",
+        "FanInter": "VIMG_16_9_APP_INSTALL#833941450992142_833944087658545",
+        "FanNative": "",
 		
 	"ironsource_appKey": "1011dee21",
 		
