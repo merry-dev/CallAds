@@ -2,8 +2,8 @@
   "GuideData": {
     "AdsController": {
 	    		
-	"BannerAd": "max",
-	"InterstitialAd": "max",
+	"BannerAd": "facebook",
+	"InterstitialAd": "facebook",
         "NativeAd": "max",
 		
         "BannerAdmob": "ca-app-pub-4489490271278035/3872976107",
