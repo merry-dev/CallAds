@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": {
 	    		
-	"BannerAd": "admob",
+	"BannerAd": "huawei",
 	"InterstitialAd": "facebook",
         "NativeAd": "max",
 		
@@ -17,7 +17,12 @@
         "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
         "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-	 "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+	    
+	"HuaweiBanner": "testw6vs28auh3",
+        "HuaweiInterVideo": "testb4znbuh3n2",
+        "HuaweiInterImage": "teste9ih9j0rc3",
+	"HuaweiNative": "testu7m3hc4gvm",
 		
 	"ironsource_appKey": "1011dee21",
 		
