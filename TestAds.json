@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": {
 	    		
-	"BannerAd": "huawei",
+	"BannerAd": "admob",
 	"InterstitialAd": "facebook",
         "NativeAd": "max",
 		
