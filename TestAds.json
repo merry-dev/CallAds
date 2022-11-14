@@ -6,10 +6,20 @@
 	   "InterstitialAd": "",
            "NativeAd": "facebook",
 
+	 "BannerAdsAc1": "facebook",
+	 "BannerAdsAc2": "admob",
+	 "BannerAdsAc3": "max",
+	 "BannerdsAc4": "facebook",
+	    
 	 "InterAdsAc1": "facebook",
 	 "InterAdsAc2": "admob",
 	 "InterAdsAc3": "max",
 	 "InterAdsAc4": "facebook",
+	    
+	 "NativeAdsAc1": "facebook",
+	 "NativeAdsAc2": "admob",
+	 "NativeAdsAc3": "max",
+	 "NativeAdsAc4": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
