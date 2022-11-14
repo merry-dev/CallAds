@@ -4,10 +4,10 @@
 	    		
 	"BannerAd": "admob",
 
-	 "InterAdsActivitySplash": "max",
-	 "InterAdsMainActivity": "admob",
-	 "InterAdsSecActivity": "max",
-	 "InterAdsThirdActivity": "admob",
+	 "InterAdsAc1": "max",
+	 "InterAdsAc2": "admob",
+	 "InterAdsAc3": "max",
+	 "InterAdsAc4": "admob",
 	  
 	 "NativeAd": "max",
 		
