@@ -9,7 +9,7 @@
 	 "InterAdsAc3": "max",
 	 "InterAdsAc4": "facebook",
 	  
-	 "NativeAd": "max",
+	 "NativeAd": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
