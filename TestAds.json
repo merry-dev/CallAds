@@ -4,7 +4,7 @@
 	    		
 	   "BannerAd": "admob",
 	   "InterstitialAd": "",
-           "NativeAd": "facebook"
+           "NativeAd": "facebook",
 
 	 "InterAdsAc1": "facebook",
 	 "InterAdsAc2": "admob",
