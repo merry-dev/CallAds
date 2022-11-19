@@ -11,15 +11,15 @@
 	 "BannerAdsAc3": "else",
 	 "BannerAdsAc4": "else",
 	    
-	 "InterAdsAc1": "else",
+	 "InterAdsAc1": "max",
 	 "InterAdsAc2": "else",
 	 "InterAdsAc3": "else",
 	 "InterAdsAc4": "else",
 	    
 	 "NativeAdsAc1": "else",
-	 "NativeAdsAc2": "else",
+	 "NativeAdsAc2": "max",
 	 "NativeAdsAc3": "else",
-	 "NativeAdsAc4": "else",
+	 "NativeAdsAc4": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
